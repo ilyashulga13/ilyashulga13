@@ -1,6 +1,10 @@
 # Hi, I'm Ilya!
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=01001000%2001100101%2001101100%2001101100%2001101111&fontSize=50&animation=fadeIn&fontColor=00FF00&fontAlignY=40)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=100&lines=01001000+01000101+01001100+01001100+01001111;WELCOME+TO+THE+MATRIX;WAKE+UP+...;FOLLOW+THE+WHITE+RABBIT" alt="Matrix Typing" />
+  </a>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=C%23+Developer;C%2B%2B+Enthusiast;Building+RepoMedic;Always+Learning!)](https://git.io/typing-svg)
 
