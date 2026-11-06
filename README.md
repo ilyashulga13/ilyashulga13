@@ -6,30 +6,43 @@
 
 ---
 
-### My Tech Stack
+### 🚀 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,python,java,js,html,css&theme=dark)](https://skillicons.dev)
 
 ---
 
-### My GitHub Stats
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ilyashulga13&show_icons=true&theme=radical)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ilyashulga13&layout=compact&theme=radical&hide=html,css&exclude_repo=FoxMarket,FoxNews)
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ilyashulga13&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ilyashulga13&layout=compact&theme=radical&hide=html,css,javascript" alt="Top Languages" width="48%" />
+</div>
 
-### Streak Stats
+<br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ilyashulga13&theme=radical&border_radius=10)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ilyashulga13&theme=radical&border_radius=10" alt="GitHub Streak" width="70%" />
+</div>
 
 ---
 
-### My Contributions
+### 🐍 Contributions
 
-![Snake animation](https://raw.githubusercontent.com/ilyashulga13/ilyashulga13/output/snake-dark.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ilyashulga13/ilyashulga13/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
-### How to reach me
+### 📫 Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-ilyashulga13-181717?style=for-the-badge&logo=github)](https://github.com/ilyashulga13)
-[![NuGet](https://img.shields.io/badge/NuGet-RepoMedic-blue?style=for-the-badge&logo=nuget)](https://www.nuget.org/packages/RepoMedic)
+<div align="center">
+  <a href="https://github.com/ilyashulga13">
+    <img src="https://img.shields.io/badge/GitHub-ilyashulga13-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.nuget.org/packages/RepoMedic">
+    <img src="https://img.shields.io/badge/NuGet-RepoMedic-blue?style=for-the-badge&logo=nuget" alt="NuGet" />
+  </a>
+</div>
