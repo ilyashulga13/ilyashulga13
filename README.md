@@ -29,4 +29,4 @@
 
 ### GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ilyashulga13&theme=radical&no-frame=true&no-bg=true&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ilyashulga13&theme=radical&no-frame=true&no-bg=true&margin-w=15) 
