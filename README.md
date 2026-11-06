@@ -1,19 +1,28 @@
-#### Hi there! I'm Ilya.
+# Hi, I'm Ilya!
 
-I'm a developer passionate about building tools and learning new things. 
-Currently working on **[RepoMedic](https://github.com/ilyashulga13/RepoMedic)** - a CLI tool that checks the health of GitHub repositories.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!%20I'm%20Ilya&fontSize=50&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=C%23+Developer;C%2B%2B+Enthusiast;Building+RepoMedic;Always+Learning!)](https://git.io/typing-svg)
 
 ---
 
-### My Skills
+### My Tech Stack
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,python,java,js,html,css&theme=dark)](https://skillicons.dev)
 
 ---
 
 ### My GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyashulga13&show_icons=true&theme=radium)
+![My GitHub Stats](https://github-stats-extended.vercel.app/api?username=ilyashulga13&show_icons=true&theme=radical)
+
+### My Contributions
+
+![Snake animation](https://raw.githubusercontent.com/ilyashulga13/ilyashulga13/output/snake-dark.svg)
+
+---
+
+### How to reach me
+
+[![GitHub](https://img.shields.io/badge/GitHub-ilyashulga13-181717?style=for-the-badge&logo=github)](https://github.com/ilyashulga13)
+[![NuGet](https://img.shields.io/badge/NuGet-RepoMedic-blue?style=for-the-badge&logo=nuget)](https://www.nuget.org/packages/RepoMedic)
