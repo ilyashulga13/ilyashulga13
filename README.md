@@ -1,8 +1,16 @@
 # Hi, I'm Ilya!
 
-![Matrix Rain](https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&text=01010101%2001010101%2001010101&fontSize=40&fontColor=00FF00&animation=blinking)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=01001000+01100101+01101100+01101100+01101111;Wake+up%2C+Neo...;System+Initialized..." alt="Matrix Terminal" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=C%23+Developer;C%2B%2B+Enthusiast;Building+RepoMedic;Always+Learning!)](https://git.io/typing-svg)
+<br />
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=C%23+Developer;C%2B%2B+Enthusiast;Building+RepoMedic;Always+Learning!" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
