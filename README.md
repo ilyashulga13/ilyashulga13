@@ -14,7 +14,14 @@
 
 ### My GitHub Stats
 
-![My GitHub Stats](https://github-stats-extended.vercel.app/api?username=ilyashulga13&show_icons=true&theme=radical)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ilyashulga13&show_icons=true&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ilyashulga13&layout=compact&theme=radical)
+
+### Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ilyashulga13&theme=radical&border_radius=10)](https://git.io/streak-stats)
+
+---
 
 ### My Contributions
 
@@ -26,7 +33,3 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-ilyashulga13-181717?style=for-the-badge&logo=github)](https://github.com/ilyashulga13)
 [![NuGet](https://img.shields.io/badge/NuGet-RepoMedic-blue?style=for-the-badge&logo=nuget)](https://www.nuget.org/packages/RepoMedic)
-
-### GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ilyashulga13&theme=radical&no-frame=true&no-bg=true&margin-w=15) 
