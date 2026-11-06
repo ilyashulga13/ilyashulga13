@@ -1,8 +1,6 @@
 # Hi, I'm Ilya!
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Matrix Header" />
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=01001000%2001100101%2001101100%2001101100%2001101111&fontSize=50&animation=fadeIn&fontColor=00FF00&fontAlignY=40)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=C%23+Developer;C%2B%2B+Enthusiast;Building+RepoMedic;Always+Learning!)](https://git.io/typing-svg)
 
