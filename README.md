@@ -15,7 +15,7 @@
 ### My GitHub Stats
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ilyashulga13&show_icons=true&theme=radical)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ilyashulga13&layout=compact&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ilyashulga13&layout=compact&theme=radical&hide=html,css)
 
 ### Streak Stats
 
