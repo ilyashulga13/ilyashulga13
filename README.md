@@ -1,6 +1,8 @@
 # Hi, I'm Ilya!
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=01001000%20%26%2001101001&fontSize=60&animation=fadeIn&fontColor=00FF00)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Matrix Header" />
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=C%23+Developer;C%2B%2B+Enthusiast;Building+RepoMedic;Always+Learning!)](https://git.io/typing-svg)
 
@@ -31,7 +33,7 @@
 ### 🐍 Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ilyashulga13/ilyashulga13/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ilyashulga13/ilyashulga13/output/snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
