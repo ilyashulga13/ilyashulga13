@@ -14,6 +14,14 @@
 
 ---
 
+### 💻 What I'm doing right now
+
+- 🔭 I’m currently finishing the release of **RepoMedic v1.3.0 "Saturn"** (Pro mode for CI/CD and JSON config).
+- 🚀 Next up: **v1.4.0 "Nebula"** (Auto-fix feature).
+- 🌱 I’m currently learning **Docker** and **GitHub Actions** for deeper CI/CD integration.
+
+---
+
 ### 🚀 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,python,java,js,html,css&theme=dark)](https://skillicons.dev)
@@ -53,4 +61,10 @@
   <a href="https://www.nuget.org/packages/RepoMedic">
     <img src="https://img.shields.io/badge/NuGet-RepoMedic-blue?style=for-the-badge&logo=nuget" alt="NuGet" />
   </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ilyashulga13&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
