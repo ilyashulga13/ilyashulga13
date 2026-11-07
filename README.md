@@ -24,7 +24,7 @@
 
 ### 🚀 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,python,java,js,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,python,java,js,html,css,git,docker&theme=dark)](https://skillicons.dev)
 
 ---
 
