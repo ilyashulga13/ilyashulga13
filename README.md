@@ -1,5 +1,3 @@
-# Hi, I'm Ilya!
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF4500&height=200&section=header&text=2bytes&fontSize=65&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Header" />
 </div>
@@ -14,9 +12,16 @@
 
 ### 💻 What I'm doing right now
 
-- 🔭 I’m currently finishing the release of **RepoMedic v1.3.0 "Saturn"** (Pro mode for CI/CD and JSON config).
-- 🚀 Next up: **v1.4.0 "Nebula"** (Auto-fix feature).
-- 🌱 I’m currently learning **Docker** and **GitHub Actions** for deeper CI/CD integration.
+- 🚀 Just released **RepoMedic v1.3.0 "Saturn"**! It now features a Pro Mode for CI/CD and a built-in Achievements system.
+- 🌴 Taking a short break from Nov 11 to Nov 25.
+- 🌱 Next up: Learning Docker and building a few small projects in **Java** and **C**.
+
+---
+
+### 🛠 Featured Projects
+
+- **[RepoMedic](https://github.com/ilyashulga13/RepoMedic)** - A C# CLI tool that checks the health of your GitHub repository. Published on NuGet!
+- **[Java CLI To-Do List](https://github.com/ilyashulga13/Java-Todo-List)** - A simple command-line task manager built to practice OOP in Java.
 
 ---
 
@@ -63,4 +68,10 @@
   <a href="https://github.com/ilyashulga13/RepoMedic/issues">
     <img src="https://img.shields.io/badge/Contact-Open_an_Issue-FF8C00?style=for-the-badge&logo=github&logoColor=white" alt="Contact" />
   </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ilyashulga13&color=FF8C00&style=for-the-badge" alt="Profile Views" />
 </div>
