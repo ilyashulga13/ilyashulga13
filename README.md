@@ -33,7 +33,7 @@
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=ilyashulga13&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   &nbsp;&nbsp;
-  
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ilyashulga13&layout=compact&theme=radical&hide=html,css,javascript" alt="Top Languages" width="48%" />
 </div>
 
 <br />
