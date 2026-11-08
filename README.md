@@ -1,16 +1,14 @@
 # Hi, I'm Ilya!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=01001000+01100101+01101100+01101100+01101111;Wake+up%2C+Neo...;System+Initialized..." alt="Matrix Terminal" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF4500&height=200&section=header&text=2bytes&fontSize=65&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Header" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&height=50&lines=It+works+on+my+machine...;I+don't+always+test+my+code...;99+little+bugs+in+the+code...;It+compiles%2C+ship+it!;I'm+not+a+pro+at+C%23%2C+I+just+Google+well." alt="Typing SVG" />
 </div>
 
 <br />
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=C%23+Developer;C%2B%2B+Enthusiast;Building+RepoMedic;Always+Learning!" alt="Typing SVG" />
-  </a>
-</div>
 
 ---
 
@@ -24,22 +22,26 @@
 
 ### 🚀 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,python,java,js,html,css,git,docker&theme=dark)](https://skillicons.dev)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,c,python,java,js,html,css,git,docker&theme=dark" alt="My Skills" />
+  </a>
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ilyashulga13&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ilyashulga13&show_icons=true&theme=dark&title_color=FF8C00&icon_color=FF8C00&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   &nbsp;&nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ilyashulga13&layout=compact&theme=radical&hide=html,css,javascript" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ilyashulga13&layout=compact&theme=dark&title_color=FF8C00&text_color=FFFFFF&bg_color=0D1117&hide=html,css,javascript" alt="Top Languages" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ilyashulga13&theme=radical&border_radius=10" alt="GitHub Streak" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=ilyashulga13&theme=dark&ring=FF8C00&fire=FF8C00&currStreakNum=FFFFFF&currStreakLabel=FF8C00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=FF8C00" alt="GitHub Streak" width="70%" />
 </div>
 
 ---
@@ -55,16 +57,10 @@
 ### 📫 Connect with me
 
 <div align="center">
-  <a href="https://github.com/ilyashulga13">
-    <img src="https://img.shields.io/badge/GitHub-ilyashulga13-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
   <a href="https://www.nuget.org/packages/RepoMedic">
-    <img src="https://img.shields.io/badge/NuGet-RepoMedic-blue?style=for-the-badge&logo=nuget" alt="NuGet" />
+    <img src="https://img.shields.io/badge/NuGet-RepoMedic-FF8C00?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet" />
   </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ilyashulga13&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/ilyashulga13/RepoMedic/issues">
+    <img src="https://img.shields.io/badge/Contact-Open_an_Issue-FF8C00?style=for-the-badge&logo=github&logoColor=white" alt="Contact" />
+  </a>
 </div>
