@@ -36,7 +36,8 @@
 <br />
 
 <div align="center">
-  <i>Currently exploring the Rust programming language.</i>
+  <i>Yup. I absolutely love the C family.</i><br />
+  <i>Currently exploring the Rust programming language!</i>
 </div>
 
 ---
