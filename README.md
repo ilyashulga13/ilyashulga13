@@ -21,7 +21,7 @@
 ### 🛠 Featured Projects
 
 - **[RepoMedic](https://github.com/ilyashulga13/RepoMedic)** - A C# CLI tool that checks the health of your GitHub repository. Published on NuGet!
-- **[Java CLI To-Do List](https://github.com/ilyashulga13/Java-Todo-List)** - A simple command-line task manager built to practice OOP in Java.
+- **[ByteVault](https://github.com/ilyashulga13/ByteVault)** - A custom Hash Table implementation written from scratch in C.
 
 ---
 
@@ -31,13 +31,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,rust&theme=dark" alt="My Favorite Languages" />
   </a>
-</div>
-
-<br />
-
-<div align="center">
-  <i>Yup. I absolutely love the C family.</i><br />
-  <i>Currently exploring the Rust programming language!</i>
 </div>
 
 ---
@@ -64,6 +57,12 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ilyashulga13&theme=dark&ring=FF8C00&fire=FF8C00&currStreakNum=FFFFFF&currStreakLabel=FF8C00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=FF8C00" alt="GitHub Streak" width="70%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyashulga13&bg_color=0D1117&color=FF8C00&line=FF8C00&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="90%" />
 </div>
 
 ---
