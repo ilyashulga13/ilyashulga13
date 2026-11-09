@@ -13,8 +13,8 @@
 ### 💻 What I'm doing right now
 
 - 🚀 Just released **RepoMedic v1.3.0 "Saturn"**! It now features a Pro Mode for CI/CD and a built-in Achievements system.
-- 🌴 Taking a short break from Nov 11 to Nov 25.
-- 🌱 Next up: Learning Docker and building a few small projects in **Java** and **C**.
+- 🌴 Taking a 'short' break from Nov 11 to Nov 25.
+- 🌱 Next up: Learning Docker and more C.
 
 ---
 
