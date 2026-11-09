@@ -25,6 +25,22 @@
 
 ---
 
+### ❤️ My Favorite Languages
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,rust&theme=dark" alt="My Favorite Languages" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <i>Currently exploring the Rust programming language.</i>
+</div>
+
+---
+
 ### 🚀 Tech Stack
 
 <div align="center">
