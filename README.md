@@ -25,14 +25,6 @@
 
 ---
 
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyashulga13&theme=react-dark&bg_color=0D1117&color=FF8C00&line=FF8C00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
-
----
-
 ### ❤️ My Favorite Languages
 
 <div align="center">
