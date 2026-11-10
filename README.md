@@ -47,13 +47,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ilyashulga13&show_icons=true&theme=dark&title_color=FF8C00&icon_color=FF8C00&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  &nbsp;&nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ilyashulga13&layout=compact&theme=dark&title_color=FF8C00&text_color=FFFFFF&bg_color=0D1117&hide=html,css,javascript" alt="Top Languages" width="48%" />
-</div>
 
-<br />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ilyashulga13&theme=dark&ring=FF8C00&fire=FF8C00&currStreakNum=FFFFFF&currStreakLabel=FF8C00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=FF8C00" alt="GitHub Streak" width="70%" />
