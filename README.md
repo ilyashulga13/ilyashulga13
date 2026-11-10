@@ -12,8 +12,8 @@
 
 ### 💻 What I'm doing right now
 
-- 🚀 Just released **RepoMedic v1.3.0 "Saturn"**! It now features a Pro Mode for CI/CD and a built-in Achievements system.
-- 🌴 Taking a 'short' break from Nov 11 to Nov 25.
+- 🛑 **On a short break until Nov 25th.** 
+- 📅 Will resume commits and open-source contributions when I return.
 - 🌱 Next up: Learning Docker and more C.
 
 ---
@@ -22,6 +22,14 @@
 
 - **[RepoMedic](https://github.com/ilyashulga13/RepoMedic)** - A C# CLI tool that checks the health of your GitHub repository. Published on NuGet!
 - **[ByteVault](https://github.com/ilyashulga13/ByteVault)** - A custom Hash Table implementation written from scratch in C.
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyashulga13&theme=react-dark&bg_color=0D1117&color=FF8C00&line=FF8C00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
 
 ---
 
@@ -57,12 +65,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ilyashulga13&theme=dark&ring=FF8C00&fire=FF8C00&currStreakNum=FFFFFF&currStreakLabel=FF8C00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=FF8C00" alt="GitHub Streak" width="70%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyashulga13&bg_color=0D1117&color=FF8C00&line=FF8C00&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="90%" />
 </div>
 
 ---
