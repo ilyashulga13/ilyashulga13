@@ -10,33 +10,45 @@
 
 ### 🛠 Featured Projects
 
-<table width="100%">
+<table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ilyashulga13/RepoMedic">RepoMedic</a></h3>
-      <p>A CLI tool that checks the health of your GitHub repository and gives it a score out of 100. Published on NuGet!</p>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+    <td width="48%" valign="top">
+      <h3 style="margin-bottom: 5px;"><a href="https://github.com/ilyashulga13/RepoMedic">RepoMedic</a></h3>
+      <p style="font-size: 14px; color: #8b949e; margin-top: 0;">A CLI tool that checks the health of your GitHub repository and gives it a score out of 100. Published on NuGet!</p>
+      <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" height="24" alt="C# .NET" />
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ilyashulga13/ByteVault">ByteVault</a></h3>
-      <p>A custom Hash Table implementation written from scratch in C. Features separate chaining for collision resolution.</p>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+    <td width="4%" valign="top"></td> <!-- Отступ между колонками -->
+    <td width="48%" valign="top">
+      <h3 style="margin-bottom: 5px;"><a href="https://github.com/ilyashulga13/ByteVault">ByteVault</a></h3>
+      <p style="font-size: 14px; color: #8b949e; margin-top: 0;">A custom Hash Table implementation written from scratch in C. Features separate chaining for collision resolution.</p>
+      <img src="https://skillicons.dev/icons?i=c&theme=dark" height="24" alt="C" />
     </td>
   </tr>
 </table>
 
-<br />
+---
+
+### ❤️ My Favorite Languages
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,rust&theme=dark" alt="My Favorite Languages" height="35" />
+  </a>
+  <br/>
+  <i style="font-size: 13px; color: #8b949e;">I absolutely love the C family and Rust.</i>
+</div>
+
+---
 
 ### 🚀 Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,rust,python,js,html,css,git,docker&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,rust,python,js,html,css,git,docker,bash,powershell&theme=dark" alt="My Skills" />
   </a>
 </div>
 
-<br />
+---
 
 ### 📊 GitHub Overview
 
