@@ -17,7 +17,7 @@
       <p style="font-size: 14px; color: #8b949e; margin-top: 0;">A CLI tool that checks the health of your GitHub repository and gives it a score out of 100. Published on NuGet!</p>
       <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" height="24" alt="C# .NET" />
     </td>
-    <td width="4%" valign="top"></td> <!-- Отступ между колонками -->
+    <td width="4%" valign="top"></td>
     <td width="48%" valign="top">
       <h3 style="margin-bottom: 5px;"><a href="https://github.com/ilyashulga13/ByteVault">ByteVault</a></h3>
       <p style="font-size: 14px; color: #8b949e; margin-top: 0;">A custom Hash Table implementation written from scratch in C. Features separate chaining for collision resolution.</p>
