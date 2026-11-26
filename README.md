@@ -3,8 +3,15 @@
 </div>
 
 <div align="center">
-  <i>Building tools that actually work. Currently exploring Rust and low-level programming.</i>
+  <i>Building tools that actually work. Currently exploring Rust and low-level programming.</i><br/>
+  <b>⚠️ Taking a short break - still feeling sick.</b>
 </div>
+
+<br />
+
+### 📝 Notes
+
+> *"Still fighting a cold. Just resting and reading the Rust Book when I have the energy."*
 
 ---
 
@@ -19,9 +26,9 @@
     </td>
     <td width="4%" valign="top"></td>
     <td width="48%" valign="top">
-      <h3 style="margin-bottom: 5px;"><a href="https://github.com/ilyashulga13/ByteVault">ByteVault</a></h3>
-      <p style="font-size: 14px; color: #8b949e; margin-top: 0;">A custom Hash Table implementation written from scratch in C. Features separate chaining for collision resolution.</p>
-      <img src="https://skillicons.dev/icons?i=c&theme=dark" height="24" alt="C" />
+      <h3 style="margin-bottom: 5px;"><a href="https://github.com/ilyashulga13/rust-journey">rust-journey</a></h3>
+      <p style="font-size: 14px; color: #8b949e; margin-top: 0;">My journey learning Rust from scratch. Tracking progress through the official Rust book and building projects.</p>
+      <img src="https://skillicons.dev/icons?i=rust&theme=dark" height="24" alt="Rust" />
     </td>
   </tr>
 </table>
