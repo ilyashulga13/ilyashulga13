@@ -61,7 +61,7 @@
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=ilyashulga13&show_icons=true&theme=dark&title_color=FF8C00&icon_color=FF8C00&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ilyashulga13&layout=compact&theme=dark&title_color=FF8C00&text_color=FFFFFF&bg_color=0D1117&hide_border=true&hide=html,css,javascript" alt="Top Languages" width="48%" />
+  
 </div>
 
 <br />
